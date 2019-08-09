@@ -1,0 +1,6 @@
+export const HANDLEFOCUS = 'header/Handlefocus'
+export const HANDLELIST = 'header/Handlelist'
+export const TOTALMOUSEIN = 'header/Totalmousein'
+export const ALERTTOPICIMG = 'home/alertTopicImg'
+export const ALERTARTICLELIST = 'home/Alertarticlelist'
+export const ADDLOADINGLIST = 'home/Addloadinglist'
